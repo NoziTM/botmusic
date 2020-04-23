@@ -1,0 +1,16 @@
+{
+    "token": "Bot's token",
+    "stream": "http://www.skyrock.fm/stream.php/tunein16_64mp3.mp3",
+    "streamInfo": "http://www.skyrock.fm/stream.php/tunein16_64mp3.mp3",
+    "ua": "Odyssey Radio Discord bot/1.1.0 (https://github.com/EspGCreunix/listen.moe-djs-master)",
+    "separator": "-",
+    "owners": [
+        "User ID who should have access to eval",
+        "You can put multiples here"
+    ],
+    "guildDefaults": {
+        "vc": "",
+        "prefix": "~~",
+        "denied": []
+    }
+}
